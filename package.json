@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/mary-clayton/knex_migration_example#readme",
   "dependencies": {
-    "knex": "^0.20.8",
+    "knex": "^2.4.0",
     "sqlite3": "^4.1.1"
   }
 }
